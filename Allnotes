@@ -1,4 +1,10 @@
 ####Anoconda in python
 Anaconda is an open-source distribution that simplifies package management and deployment. Package versions are managed by the package management system 'Conda'.
 
- 
+BEDMAS is an acronym that in python helps you remember the order of operations in math when solving problems with multiple operations:
+B: Brackets
+E: Exponents
+D: Division
+M: Multiplication
+A: Addition
+S: Subtraction 
