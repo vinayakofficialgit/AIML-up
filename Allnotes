@@ -15,3 +15,26 @@ DRY - don't repeat yourself
 
 https://realpython.com/python-pep8/    lool in Naming syles option #############this will tell how to give naming convention
 s - each class or module should have one responsibility
+
+
+numpy gives you ndarray   number and dimensional  array
+np.array is command to convert gievn data into an array
+List is doest not support that scientific mathematically but Numpy support complex sceintific and mathematically option
+
+import cv2    ##compuer vision library 
+
+
+import sys    ##give you systen info in python
+##to check info
+num = [1,2,3,4,5]
+sys.getsizeof(num), 'bytes'
+
+.shape  ##will give u no. row and coloumn
+
+ndim   ###### number of dimension
+
+
+[2,4,5]    ###4 and 5 shape of 2D data mean 4 is rows and 5 is coloumn  and 2 is number such 2d array 
+
+
+
