@@ -53,4 +53,18 @@ np.ceil(my)     ###will give u highest round figure value
 
 
 
+PANDAS mostly used for data cleaning,data analysis,data manipulation,sorting
+
+PANDAS is built on NUMPY
+
+
+pd.Series()               ####to convert the data into series
+
+series is 1D and when u combine multiple series it become dataframe which is 2D 
+
+Concat is used to combine multiple series into Dataframe
+
+axis=1  coloum wise data it also result as Dataframe  and axis =2 row wise data it result as Series because series does not add coloum that why
+
+
 
