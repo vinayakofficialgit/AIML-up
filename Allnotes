@@ -53,6 +53,10 @@ np.ceil(my)     ###will give u highest round figure value
 
 
 
+
+#####
+magnitude mean the size or length of object
+
 PANDAS mostly used for data cleaning,data analysis,data manipulation,sorting
 
 PANDAS is built on NUMPY
