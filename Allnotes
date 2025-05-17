@@ -88,3 +88,9 @@ two vector and taking lamda1 and lamda2 do addition
 vector in deep learning
 vector are used for feature and parameter
 
+
+
+
+
+np.zeroes((2,2,3))
+three dimensional arrary value will be...starting 2 refer to repetatoin value and rest are row and coloums
