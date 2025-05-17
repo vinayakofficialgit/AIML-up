@@ -37,7 +37,7 @@ ndim   ###### number of dimension
 [2,4,5]    ###4 and 5 shape of 2D data mean 4 is rows and 5 is coloumn  and 2 is number such 2d array 
 
 
-to convert 1D to 2D or 3D i can use .reshape() and if we need 3D & 2D to again 1D use .flatten()
+to convert 1D to 2D or 3D i can use .reshape() and if we need 3D & 2D to again 1D use .flatten() 
 
 
 np.zeros(3,6)
@@ -93,4 +93,4 @@ vector are used for feature and parameter
 
 
 np.zeroes((2,2,3))
-three dimensional arrary value will be...starting 2 refer to repetatoin value and rest are row and coloums
+three dimensional arrary value will be...starting 2 refer to repetatoin value and rest are row and coloumsb
