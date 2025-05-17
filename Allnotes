@@ -93,4 +93,10 @@ vector are used for feature and parameter
 
 
 np.zeroes((2,2,3))
-three dimensional arrary value will be...starting 2 refer to repetatoin value and rest are row and coloumsb
+three dimensional arrary value will be...starting 2 refer to repetatoin value and rest are row and coloums
+
+
+####egenvectors
+it's a number that, when used to scale an eigenvector, produces the same eigenvector after being transformed by a matrix. 
+
+
