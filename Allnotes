@@ -73,4 +73,12 @@ axis=1  coloum wise data it also result as Dataframe  and axis =2 row wise data 
 
 The Binomial distribution is a discrete probability distribution that models the number of successes in a fixed number of independent trials of a binary experiment. Each trial has two possible outcomes: a "success" or a "failure." The probability of success is constant across trials.
 
+#######
+1 second mean 1000 milli second
+
+####
+dot product. mean multiply two value parallely and addition
+
+
+
 
